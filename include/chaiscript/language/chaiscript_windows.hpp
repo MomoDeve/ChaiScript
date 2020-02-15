@@ -1,10 +1,10 @@
 // This file is distributed under the BSD License.
 // See "license.txt" for details.
 // Copyright 2009-2012, Jonathan Turner (jonathan@emptycrate.com)
-// Copyright 2009-2017, Jason Turner (jason@emptycrate.com)
+// Copyright 2009-2018, Jason Turner (jason@emptycrate.com)
 // http://www.chaiscript.com
 
-// This file is used in MomoEngine Project by @MomoDev built for Windows
+// This file is used in MxEngine Project by @MomoDev built for Windows
 // It was modified to exclude windows.h header file from ChaiScript library
 // All WIN API constants and functions are exported inside WinAPI namespace
 // Note that MomoEngine project only supports x64 for Windows
